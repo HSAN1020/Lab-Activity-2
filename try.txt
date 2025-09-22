@@ -1,0 +1,4 @@
+water
+food
+house
+family
